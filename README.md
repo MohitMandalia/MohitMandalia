@@ -1,6 +1,9 @@
 ### Hello👋, World
 ### About Me
-I am Android Developer. I am passionate about learning new things.
+- Open to exlopre other technologies
+- I am an Android Developer.
+- I am passionate about learning new things.
+- Love contributing to Open source.
 <!--
 **MohitMandalia/MohitMandalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
