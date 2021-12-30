@@ -4,6 +4,10 @@
 - I am an Android Developer.
 - I am passionate about learning new things.
 - Love contributing to Open source.
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mohitmandalia&show_icons=true&theme=dark)
+
 <!--
 **MohitMandalia/MohitMandalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
