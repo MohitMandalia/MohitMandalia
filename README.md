@@ -5,6 +5,15 @@
 - I am passionate about learning new things.
 - Love contributing to Open source.
 
+Connect with me:
+----------------
+
+<p>
+  <a href="https://twitter.com/Mohit__M">
+  <img src = "https://user-images.githubusercontent.com/36087806/147966515-315c6ade-927c-42f8-aa1b-5126e50832a0.png" width=50 height=50/>
+  </a>
+</p>
+
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=mohitmandalia&show_icons=true&theme=dark)
 
