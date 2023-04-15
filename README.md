@@ -4,6 +4,7 @@
 - I am an Android Developer.
 - I am passionate about learning new things.
 - Love contributing to Open source.
+- Writing Blogs on [Hashnode](https://mohitmandalia.hashnode.dev/)
 
 Connect with me:
 ----------------
