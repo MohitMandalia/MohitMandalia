@@ -1,7 +1,7 @@
 ### Hello👋, I'm Mohit
 ### About Me
 - Open to exlopre other technologies
-- I am an Android Developer.
+- I am an Android Developer who recently started learning iOS Development as well.
 - I am passionate about learning new things.
 - Love contributing to Open source.
 - Writing Blogs on [Hashnode](https://mohitmandalia.hashnode.dev/)
