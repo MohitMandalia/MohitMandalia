@@ -1,10 +1,6 @@
 ### Hello👋, I'm Mohit
 ### About Me
-- Open to exlopre other technologies
-- I am an Android Developer who recently started learning iOS Development as well.
-- I am passionate about learning new things.
-- Love contributing to Open source.
-- Writing Blogs on [Hashnode](https://mohitmandalia.hashnode.dev/)
+- Love to contribute code.
 
 Connect with me:
 ----------------
@@ -17,10 +13,6 @@ Connect with me:
   <img src = "https://github.com/user-attachments/assets/71409290-a7d2-4f9b-93f7-1a2d597bba41" alt="linkedin" width=50 height=50/>
   </a>
 </p>
-
-Stats
-----------------
-![Stats](https://github-readme-stats.vercel.app/api?username=mohitmandalia&show_icons=true&theme=dark)
 
 <!--
 **MohitMandalia/MohitMandalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
