@@ -1,6 +1,8 @@
 ### Hello👋, I'm Mohit
 ### About Me
-- Love to contribute code.
+- Software Engineer building scalable Android & Full-Stack products.
+- Experienced in Android, iOS, React-Native Developement.
+- Open-source contributor
 
 Connect with me:
 ----------------
