@@ -7,14 +7,15 @@
 Connect with me:
 ----------------
 
-<p>
-  <a href="https://twitter.com/Mohit__M">
+<p style="display:flex; gap:10px;">
+  <a href="https://twitter.com/Mohit__M" style="text-decoration:none;">
   <img src = "https://user-images.githubusercontent.com/36087806/147966515-315c6ade-927c-42f8-aa1b-5126e50832a0.png" width=50 height=50/>
   </a>
-   <a href="https://www.linkedin.com/in/mohit-mandalia/">
-  <img src = "https://github.com/user-attachments/assets/71409290-a7d2-4f9b-93f7-1a2d597bba41" alt="linkedin" width=50 height=50/>
+  <a href="https://www.linkedin.com/in/mohit-mandalia/" style="text-decoration:none;">
+  <img src="https://github.com/user-attachments/assets/1efdaa10-4859-4a00-9261-731375b68850"  width="50" height="50" />
   </a>
 </p>
+
 
 <!--
 **MohitMandalia/MohitMandalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
