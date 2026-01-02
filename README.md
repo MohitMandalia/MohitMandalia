@@ -14,6 +14,9 @@ Connect with me:
   <a href="https://www.linkedin.com/in/mohit-mandalia/" style="text-decoration:none;">
   <img src="https://github.com/user-attachments/assets/1efdaa10-4859-4a00-9261-731375b68850"  width="50" height="50" />
   </a>
+  <a href="https://buymeacoffee.com/mohitmandalia" style="text-decoration:none;">
+  <img src="https://github.com/user-attachments/assets/4791f591-dbfc-488a-b13b-2c4c1fd2af62"  width="50" height="50" />
+  </a>
 </p>
 
 
